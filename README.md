@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abas04
+- 👋 Hi, I’m @abas
 - 👀 I’m interested in Physics, Electronics and Informatics
 
 <!---
